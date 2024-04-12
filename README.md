@@ -1,4 +1,4 @@
-# Disney-Hotstar-clone
+# Disney+Hotstar-clone
 🍿 Welcome to the Disney+Hotstar clone! 🎬 🎉 Dive into the magical world of entertainment with this clone, designed to give you the same experience as the beloved streaming platform.
 ## Description
 This project aims to recreate the famous Disney+Hotstar platform, providing users with a seamless streaming experience for their favorite movies, TV shows, and sports events. With a user-friendly interface and a vast library of content, here clone brings the magic of Disney and the thrill of Hotstar right to your fingertips.
