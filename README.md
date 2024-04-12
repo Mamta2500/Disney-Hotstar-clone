@@ -23,6 +23,8 @@ Check out our live demo [here](link-to-demo) to experience the magic firsthand!
 ## Screenshots
 
 ![image](https://github.com/Mamta2500/Disney-Hotstar-clone/assets/72570360/7a962e6a-71f7-4400-93dd-ebffe72a7c1b)
+![image](https://github.com/Mamta2500/Disney-Hotstar-clone/assets/72570360/5de2912d-3212-4d16-bf1a-a8e2973b743a)
+
 
 ## Technologies Used
 - HTML
