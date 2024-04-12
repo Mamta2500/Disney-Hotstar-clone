@@ -32,4 +32,5 @@ Check out our live demo [here](link-to-demo) to experience the magic firsthand!
 - JavaScript
 
 Thank you for exploring the Disney+Hotstar clone! If you have any feedback or suggetions, feel free to reach out.
+
 Happy streaming! 🍿🎉
