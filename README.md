@@ -25,9 +25,9 @@ Check out our live demo [here](link-to-demo) to experience the magic firsthand!
 ![image](https://github.com/Mamta2500/Disney-Hotstar-clone/assets/72570360/7a962e6a-71f7-4400-93dd-ebffe72a7c1b)
 
 ## Technologies Used
-. HTML
-. CSS
-. JavaScript
+- HTML
+- CSS
+- JavaScript
 
 Thank you for exploring the Disney+Hotstar clone! If you have any feedback or suggetions, feel free to reach out.
 Happy streaming! 🍿🎉
