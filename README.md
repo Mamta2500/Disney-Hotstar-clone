@@ -18,7 +18,7 @@ Explore the disney+hotstar clone and get a glimpse of the disney+hotstar experie
 
 ## Demo
 
-Check out our live demo [here](link-to-demo) to experience the magic firsthand!
+Check out our live demo [here]("C:\Users\mamta\Downloads\disney+hotstar.gif") to experience the magic firsthand!
 
 ## Screenshots
 
